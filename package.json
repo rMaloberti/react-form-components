@@ -1,6 +1,6 @@
 {
   "name": "rmaloberti-p14-form-react-components",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [

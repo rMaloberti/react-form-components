@@ -1,7 +1,5 @@
 # OpenClassrooms - Projet 14 - React form components
 
-![logo](https://github.com/rMaloberti/P14_HRnet/blob/main/src/assets/logo.jpg)
-
 ## Summary
 
 - [Getting started](#getting-started)
